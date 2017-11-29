@@ -4,3 +4,9 @@ c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\Polynomial
 c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.csprojResolveAssemblyReference.cache
 c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.exe
 c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.pdb
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.exe.config
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.exe
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.pdb
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.exe
+C:\Users\Joe\Documents\GitHub\dailyprogrammingcsharp\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.pdb

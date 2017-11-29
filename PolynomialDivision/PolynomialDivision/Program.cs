@@ -27,11 +27,10 @@
 				List<int> solutionCoefficients = new List<int>();
 				List<int> tempCoefficients = new List<int>();
 				tempCoefficients.AddRange(coefficientsNum);
-				tempCoefficients.Add(0);
-				tempCoefficients.Add(0);
 
 
-				for (int i = 0; i < coefficientsNum.Length; i++)
+
+				for (int i = 0; i <= coefficientsNum.Length - coefficientsDem.Length; i++)
 				{
 					if (currentDegree >= 0)
 					{
@@ -53,14 +52,14 @@
 
 
 				Console.WriteLine("Solution:");
-				for (int i = 0; i < (degree - degree2) + 1; i++)
+				foreach(int o in solutionCoefficients)
 				{
-					Console.WriteLine(solutionCoefficients[i]);
+					Console.WriteLine(o);
 				}
 				Console.WriteLine("Remainder:");
-				for(int i = (degree - degree2) + 1; i < solutionCoefficients.Count; i++)
+				foreach(int o in tempCoefficients)
 				{
-					Console.WriteLine(solutionCoefficients[i]);
+					Console.WriteLine(o);
 				}
 				Console.ReadKey();
 			}
