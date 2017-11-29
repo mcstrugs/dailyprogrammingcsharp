@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.exe.config
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.exe
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\bin\Debug\PolynomialDivision.pdb
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.exe
+c:\users\joe\documents\visual studio 2017\Projects\PolynomialDivision\PolynomialDivision\obj\Debug\PolynomialDivision.pdb
